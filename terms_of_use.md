@@ -1,11 +1,11 @@
-# Terms of Use for History App
+# Terms of Use for Tarih Time
 
 **Last Updated: December 09, 2023**
 
-Welcome to History App! These Terms of Use govern your access to and use of the History App and its services. By creating an account or using History App, you agree to be bound by these terms and our Privacy Policy.
+Welcome to Tarih Time! These Terms of Use govern your access to and use of the Tarih Time and its services. By creating an account or using Tarih Time, you agree to be bound by these terms and our Privacy Policy.
 
 ## 1. Acceptance of Terms
-By accessing or using the History App, you agree to comply with and be bound by these Terms of Use.
+By accessing or using the Tarih Time, you agree to comply with and be bound by these Terms of Use.
 
 ## 2. Changes to Terms
 We reserve the right to modify these Terms at any time. We will notify users of any changes and update the "Last Updated" date at the top of these Terms.
@@ -15,7 +15,7 @@ We reserve the right to modify these Terms at any time. We will notify users of 
 - You are responsible for maintaining the confidentiality of your account credentials and for all activities under your account.
 
 ## 4. In-App Purchases
-- History App offers in-app purchases.
+- Tarih Time offers in-app purchases.
 - Purchases are charged to your payment method on file with the app store from which you initially downloaded the app.
 
 ## 5. Purchases of Goods
@@ -31,7 +31,7 @@ We reserve the right to modify these Terms at any time. We will notify users of 
 - We value your feedback and strive to improve our services based on your suggestions.
 
 ## 8. Intellectual Property
-- The app, its original content, features, functionality, and user interface are and will remain the exclusive property of History App.
+- The app, its original content, features, functionality, and user interface are and will remain the exclusive property of Tarih Time.
 - Trademarks, logos, and service marks displayed on the app are our property or the property of other third parties.
 
 ## 9. Disclaimer of Warranties
