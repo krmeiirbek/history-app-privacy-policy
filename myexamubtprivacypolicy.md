@@ -1,6 +1,6 @@
 # Privacy Policy for My Exam UBT
 
-_Last updated: December 09, 2023_
+_Last updated: January 26, 2024_
 
 ## Introduction
 
@@ -42,8 +42,7 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Email address
-- First name and last name
-- Phone number
+- First name and bio
 
 #### Financial Data
 For transactions processed through direct bank transfers (such as through Kaspi Bank) or other payment methods, we may collect data necessary to process those transactions. This may include, but is not limited to, your bank account number, transaction amount, and transaction date. If you provide us with transaction confirmations or checks via WhatsApp or other communication platforms, we may also collect data contained in such communications to confirm payments or purchases.
@@ -63,7 +62,7 @@ We may also collect information that Your browser sends whenever You visit our S
 #### Information from Third-Party Social Media Services
 The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
 
-- Google
+- Email and password
 
 If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
 
@@ -169,4 +168,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: history.app.777@gmail.com
+By email: bosskazybek@gmail.com
