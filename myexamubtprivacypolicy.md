@@ -1,10 +1,10 @@
-# Privacy Policy for My Exam UBT
+# Privacy Policy for М ТЕСТ
 
 _Last updated: January 26, 2024_
 
 ## Introduction
 
-My Exam UBT ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our My Exam UBT (the "Application"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
+М ТЕСТ ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our М ТЕСТ (the "Application"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of this Privacy Policy.
 
@@ -21,8 +21,8 @@ For the purposes of this Privacy Policy:
 
 - **Account** means a unique account created for You to access our Service or parts of our Service.
 - **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
-- **Application** refers to My Exam UBT, the software program provided by the Company.
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to My Exam UBT.
+- **Application** refers to М ТЕСТ, the software program provided by the Company.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to М ТЕСТ.
 - **Country** refers to: Kazakhstan.
 - **Device** means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
